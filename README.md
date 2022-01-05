@@ -1,3 +1,3 @@
 #Movie App 2019
 
-React JS Fundamentals Course(2019 Update)
+> class형 컴포넌트로 작업된 React Movie App
